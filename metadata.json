@@ -1,0 +1,11 @@
+{
+  "name": "Drishti AI - Assistive Vision & Video Guide",
+  "description": "Accessible camera vision & video analysis assistant for blind and visually impaired individuals with real-time audio guidance in Hindi, English, and Gujarati.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
